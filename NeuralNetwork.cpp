@@ -10,7 +10,7 @@
 #include <algorithm>
 #include <chrono>
 #include <limits>
-#include <omp.h>  // Include OpenMP header
+#include <omp.h> 
 
 using namespace std;
 
